@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe.config
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\bin\Debug\Exercicio17.pdb
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\obj\Debug\Exercicio17.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\obj\Debug\Exercicio17.exe
+C:\Users\Administrador\Documents\Projetos\TJ2018\2019\Janeiro\Exercicio17\Exercicio17\obj\Debug\Exercicio17.pdb
