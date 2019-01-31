@@ -10,43 +10,51 @@ namespace JogoParImpar
     {
         static void Main(string[] args)
         {
-            int numeroAleatorio, numeroUsuario, total;
+            int numeroAleatorio, numeroUsuario, total , contador = 1;
             string opcao, resultado;
 
             Random aleatorio = new Random();
-            numeroAleatorio = aleatorio.Next(0, 10);
 
-            Console.WriteLine("Escolha (P)AR ou (I)MPAR");
-            opcao = Console.ReadLine();
-
-            Console.WriteLine("Informe um número de 0 à 10");
-            numeroUsuario = Convert.ToInt32(Console.ReadLine());
-
-            total = numeroAleatorio + numeroUsuario;
-
-            if( total % 2 == 0)
+            while (contador <= 3)
             {
-                Console.WriteLine("O número é par");
-                resultado = "P";
-            }
-            else
-            {
-                Console.WriteLine("O número é ímpar");
-                resultado = "I";
-            }
+                numeroAleatorio = aleatorio.Next(0, 10);
 
-            Console.WriteLine("A soma dos números é: " + total);
+                Console.WriteLine("Escolha (P)AR ou (I)MPAR");
+                opcao = Console.ReadLine();
 
-            if (resultado == opcao)
-            {
-                Console.WriteLine("Você ganhou!");
-            }
-            else
-            {
-                Console.WriteLine("Você perdeu!");
-            }
+                Console.WriteLine("Informe um número de 0 à 10");
+                numeroUsuario = Convert.ToInt32(Console.ReadLine());
 
-            Console.ReadKey();
+                total = numeroAleatorio + numeroUsuario;
+
+                if (total % 2 == 0)
+                {
+                    Console.WriteLine("O número é par");
+                    resultado = "P";
+                }
+                else
+                {
+                    Console.WriteLine("O número é ímpar");
+                    resultado = "I";
+                }
+
+                Console.WriteLine("A soma dos números é: " + total);
+
+                if (resultado == opcao)
+                {
+                    Console.WriteLine("Você ganhou!");
+                }
+                else
+                {
+                    Console.WriteLine("Você perdeu!");
+                }
+
+                Console.ReadKey();
+
+                Console.Clear();
+
+                contador++;
+            }
         }
     }
 }
