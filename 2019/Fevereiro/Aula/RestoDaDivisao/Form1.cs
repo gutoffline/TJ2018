@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace RestoDaDivisao
 {
-    public partial class Form1 : Form
+    public partial class frmRestoDaDivisao : Form
     {
-        public Form1()
+        public frmRestoDaDivisao()
         {
             InitializeComponent();
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            txtResto.Text = (Convert.ToDouble(txtDividendo.Text) % Convert.ToDouble(txtDivisor.Text)).ToString();
         }
     }
 }
