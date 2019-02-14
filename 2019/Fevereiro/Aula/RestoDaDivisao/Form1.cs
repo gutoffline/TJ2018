@@ -21,5 +21,4 @@ namespace RestoDaDivisao
         {
             txtResto.Text = (Convert.ToDouble(txtDividendo.Text) % Convert.ToDouble(txtDivisor.Text)).ToString();
         }
-    }
-}
+    }}
