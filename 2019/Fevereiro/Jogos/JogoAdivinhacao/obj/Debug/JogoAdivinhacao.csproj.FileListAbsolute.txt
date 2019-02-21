@@ -1,0 +1,10 @@
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.exe.config
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.pdb
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.csprojAssemblyReference.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.Form1.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.Properties.Resources.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.csproj.GenerateResource.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.pdb

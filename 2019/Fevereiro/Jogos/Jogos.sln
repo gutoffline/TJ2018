@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortaDosDesesperados", "Por
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaUno", "CorridaUno\CorridaUno.csproj", "{483D36BA-BF0F-41E7-B965-CC9F4617D08C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoAdivinhacao", "JogoAdivinhacao\JogoAdivinhacao.csproj", "{0D97369D-4305-4DD0-A2E1-E3FF9064B6C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{483D36BA-BF0F-41E7-B965-CC9F4617D08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{483D36BA-BF0F-41E7-B965-CC9F4617D08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{483D36BA-BF0F-41E7-B965-CC9F4617D08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D97369D-4305-4DD0-A2E1-E3FF9064B6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D97369D-4305-4DD0-A2E1-E3FF9064B6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D97369D-4305-4DD0-A2E1-E3FF9064B6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D97369D-4305-4DD0-A2E1-E3FF9064B6C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

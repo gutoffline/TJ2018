@@ -1,0 +1,10 @@
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.exe.config
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.pdb
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.csprojAssemblyReference.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.Form1.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.Properties.Resources.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.csproj.GenerateResource.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.csproj.CoreCompileInputs.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.pdb
