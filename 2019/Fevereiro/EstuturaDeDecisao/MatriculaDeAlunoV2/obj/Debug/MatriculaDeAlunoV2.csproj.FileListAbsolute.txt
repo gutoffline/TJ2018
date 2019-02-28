@@ -1,0 +1,10 @@
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csprojAssemblyReference.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.Properties.Resources.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csproj.GenerateResource.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csproj.CoreCompileInputs.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.exe.config
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.pdb
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.frmMatriculaDeAluno.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.pdb

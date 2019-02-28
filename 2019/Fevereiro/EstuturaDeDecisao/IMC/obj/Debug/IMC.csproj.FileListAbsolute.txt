@@ -1,0 +1,9 @@
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.frmIMC.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\bin\Debug\IMC.exe.config
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\bin\Debug\IMC.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\bin\Debug\IMC.pdb
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\EstuturaDeDecisao\IMC\obj\Debug\IMC.pdb

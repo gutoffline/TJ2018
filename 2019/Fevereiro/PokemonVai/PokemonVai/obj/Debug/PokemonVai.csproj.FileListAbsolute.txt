@@ -1,0 +1,10 @@
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\bin\Debug\PokemonVai.exe.config
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\bin\Debug\PokemonVai.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\bin\Debug\PokemonVai.pdb
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.csprojAssemblyReference.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.Form1.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.Properties.Resources.resources
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.csproj.GenerateResource.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.csproj.CoreCompileInputs.cache
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.exe
+C:\Users\guto.rsxavier\Documents\Projetos\tj2018\2019\Fevereiro\PokemonVai\PokemonVai\obj\Debug\PokemonVai.pdb
