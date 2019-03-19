@@ -23,17 +23,14 @@ namespace ArquivoTexto
             StreamWriter arquivo;
             string CaminhoNome = "C:\\teste\\registros.txt";
 
-            //utilizando o metodo para criar um arquivo texto
-            //e associando o caminho e nome ao metodo
+            //utilizando o metodo para criar um arquivo texto e associando o caminho e nome ao metodo
             arquivo = File.AppendText(CaminhoNome);
 
-            //aqui, exemplo de escrever no arquivo texto
-            //escrevendo o titulo
+            //aqui, exemplo de escrever no arquivo texto escrevendo o titulo
             arquivo.Write("Nome: ");
             arquivo.Write(txtNome.Text);
             //pulando linha sem escrita
             arquivo.WriteLine();
-
             //fechando o arquivo texto com o método .Close()
             arquivo.Close();
         }
@@ -42,13 +39,9 @@ namespace ArquivoTexto
         {
             //Colocando o endereço físico (caminho do arquivo texto) 
             string Caminho = "C:\\teste\\registros.txt";
-
-            //Abrindo o arquivo texto em um leitor de texto, no caso, 
-            //o bloco de notas(notepad)
-
+            //Abrindo o arquivo texto em um leitor de texto, no caso, o bloco de notas(notepad)
             System.Diagnostics.Process.Start("notepad", Caminho);
-            //feito isso, será aperto o bloco de notas com o conteúdo do 
-            //registros.txt
+            //feito isso, será aperto o bloco de notas com o conteúdo do registros.txt
         }
     }
 }
